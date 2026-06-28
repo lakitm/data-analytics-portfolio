@@ -1,0 +1,6 @@
+model,rolling_rmse,portfolio_note
+Random Forest,7.53,Selected deployment model
+LSTM-XGBoost,7.59,Close second
+XGBoost-Poisson,7.95,Competitive count model
+CNN-LSTM,8.66,Sequential deep learning model
+Negative Binomial Regression,32.32,Count-data statistical baseline
