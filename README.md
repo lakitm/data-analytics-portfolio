@@ -34,4 +34,4 @@ This project demonstrates an end-to-end workflow for handling a messy housing-pr
 
 This portfolio intentionally excludes confidential datasets, raw health records, institutional credentials, private system code, and unpublished full thesis materials. Selected projects are presented through sanitized summaries, method demonstrations, synthetic schemas, and result-level documentation only.
 
-See [Data Privacy & Portfolio Boundaries](docs/data_privacy_and_portfolio_boundaries.md).
+See [Portfolio Notes](docs/portfolio-notes.md).
