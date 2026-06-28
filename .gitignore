@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Data files — do not upload private or raw datasets
+data/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.db
+*.sqlite
+
+# Environment and credentials
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+token.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large model artifacts
+*.pkl
+*.joblib
+*.h5
+*.keras
+models/

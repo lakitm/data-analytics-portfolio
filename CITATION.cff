@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Tamira Laki Data Analytics Portfolio"
+message: "If referencing this portfolio, please cite it as a professional portfolio by Tamira Marie A. Laki."
+type: software
+authors:
+  - family-names: Laki
+    given-names: Tamira Marie A.
+year: 2026
+license: "All rights reserved"
